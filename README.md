@@ -9,8 +9,6 @@ Rispetto al precedente, questo sito ha anche una serie di interessantissimi cors
 -DATA SCIENCE CENTRAL
 Questo è stato uno dei primi siti che io abbia mai navigato nel settore del Machine Learning e della Data Science. E’ possibile infatti navigare tra le sue moltissime sezioni per trovare sicuramente qualche spunto particolarmente interessante. Rispetto ai primi due siti web menzionati, ha un focus più specifico sulla Statistica e sulla Data Science.
 
-Se sei interessato, visitalo al seguente link: https://www.datasciencecentral.com/.
-
 -KDNUGGETS
 Immenso sito web con articoli che spaziano dal Machine Learning alla Data Science, dall’AI alla Statistica.
 ùMolto simile al sopracitato Data Science Central, KDnuggets è stato fondato da Gregory Piatetsky-Shapiro, un vero e proprio guru della Data Science (no. 1 in LinkedIn Top Voices 2018: Data Science & Analytics).Ciò che però differenzia questo sito è la sua capacità di stare sempre sul pezzo e di mostrare una grande moltitudine di news, scoperte e studi scientifici sui temi d’interesse. Una dedizione davvero incredibile da parte dei curatori permette quindi di rimanere sempre aggiornati sui temi del Machine Learning, consentendo una formazione continua.
