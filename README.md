@@ -1,5 +1,6 @@
 # DATA_SCIENCE
-Vediamo quindi senza ulteriori indugi quelli che sono i 5 migliori siti web per imparare il Machine Learning.
+Vediamo quindi senza ulteriori indugi quelli che sono i 5 migliori siti web per imparare il Machine Learning:
+
 -TOWARDS DATA SCIENCE
 Il primo sito che consigliamo per imparare il Machine Learning è sicuramente Towards Data Science.Sezione di Medium dedicata proprio a questo settore, è possibile trovare sia argomenti di tipo teorico sia pratico, con tutorial e notebook. La sua principale virtù sta nel fatto di gestire argomenti sia ad alto ed altissimo livello, sia roba molto pratica e specifica.
 
