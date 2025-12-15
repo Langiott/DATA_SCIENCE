@@ -1,33 +1,38 @@
 # Data Science
 ![we](/we.webp)
+## I migliori siti per imparare il Machine Learning
 
-Vediamo quindi senza ulteriori indugi quelli che sono i 5 migliori siti web per imparare il Machine Learning:
+Di seguito una selezione di cinque risorse online utili per apprendere e approfondire il Machine Learning, combinando teoria e pratica.
 
--TOWARDS DATA SCIENCE
-Il primo sito che consigliamo per imparare il Machine Learning è sicuramente Towards Data Science.Sezione di Medium dedicata proprio a questo settore, è possibile trovare sia argomenti di tipo teorico sia pratico, con tutorial e notebook. La sua principale virtù sta nel fatto di gestire argomenti sia ad alto ed altissimo livello, sia roba molto pratica e specifica.
+- **Towards Data Science**  
+  Sezione di Medium dedicata a Machine Learning e Data Science. Offre articoli che spaziano da concetti teorici avanzati a tutorial pratici con esempi e notebook.
 
--ANALYTICS VIDHYA
-Rispetto al precedente, questo sito ha anche una serie di interessantissimi corsi, sia gratuiti sia a pagamento.Sul sito, che trovi a questo link, è presente un importantissimo numero di articoli del loro blog con un forte accento sull’implementazione di algoritmi e pipeline in Python.
+- **Analytics Vidhya**  
+  Piattaforma completa che propone articoli tecnici e corsi strutturati, gratuiti e a pagamento, con un forte focus sull’implementazione in Python.
 
--DATA SCIENCE CENTRAL
-Questo è stato uno dei primi siti che io abbia mai navigato nel settore del Machine Learning e della Data Science. E’ possibile infatti navigare tra le sue moltissime sezioni per trovare sicuramente qualche spunto particolarmente interessante. Rispetto ai primi due siti web menzionati, ha un focus più specifico sulla Statistica e sulla Data Science.
+- **Data Science Central**  
+  Portale storico del settore, con contenuti orientati principalmente a statistica e Data Science, utile per approfondimenti teorici.
 
--KDNUGGETS
-Immenso sito web con articoli che spaziano dal Machine Learning alla Data Science, dall’AI alla Statistica.
-ùMolto simile al sopracitato Data Science Central, KDnuggets è stato fondato da Gregory Piatetsky-Shapiro, un vero e proprio guru della Data Science (no. 1 in LinkedIn Top Voices 2018: Data Science & Analytics).Ciò che però differenzia questo sito è la sua capacità di stare sempre sul pezzo e di mostrare una grande moltitudine di news, scoperte e studi scientifici sui temi d’interesse. Una dedizione davvero incredibile da parte dei curatori permette quindi di rimanere sempre aggiornati sui temi del Machine Learning, consentendo una formazione continua.
+- **KDnuggets**  
+  Sito di riferimento per Machine Learning, AI e Data Science, noto per l’aggiornamento costante su news, studi scientifici e trend di settore.
 
--KAGGLE
-Naturalmente, non potevamo non menziona Kaggle, sito web di cui abbiamo già parlato qui.Kaggle infatti oltre alle sue fantomatiche competizioni ha tutta una serie di pagine di blog e corsi di approfondimenti e tutorial. E’ possibile osservare i kernel degli altri concorrenti e seguire i Master nelle loro analisi per andare a conoscere (ed eventualmente rubare) tutti i trucchi del mestiere.
+- **Kaggle**  
+  Oltre alle competizioni, offre corsi, tutorial e notebook condivisi dalla community, permettendo di apprendere tecniche pratiche osservando il lavoro di altri data scientist.
 
-# Qlik:
-Qlik è una piattaforma di analisi dei dati che consente agli utenti di estrarre, trasformare e visualizzare dati da diverse fonti. Offre strumenti avanzati di analisi e dashboard interattivi per aiutare le aziende a prendere decisioni basate sui dati.
+---
 
-# Table:
-"Table" (tavola) in genere si riferisce a una rappresentazione tabellare dei dati. Questo può includere fogli di calcolo, database o qualsiasi altro formato in cui i dati sono organizzati in righe e colonne.
+## Strumenti di Business Intelligence
 
-# Power BI:
-Power BI è un'applicazione di business intelligence sviluppata da Microsoft. Consente agli utenti di connettersi a diverse fonti di dati, creare report interattivi e dashboard, e condividere facilmente queste analisi con altre persone. Power BI è ampiamente utilizzato per l'analisi e la visualizzazione dei dati aziendali.
+- **Qlik**  
+  Piattaforma di Business Intelligence per l’estrazione, trasformazione e visualizzazione dei dati, con dashboard interattive e modello associativo.
 
+- **Table (Tabelle)**  
+  Rappresentazione strutturata dei dati in righe e colonne, tipica di fogli di calcolo e database, usata come base per l’analisi quantitativa.
+
+- **Power BI**  
+  Strumento di Business Intelligence di Microsoft per la creazione di report e dashboard interattivi, ampiamente utilizzato in ambito aziendale.
+
+---
 
 # 🎮 Video Games Data Analysis Project
 
