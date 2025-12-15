@@ -1,4 +1,4 @@
-# DATA_SCIENCE
+# Data Science
 ![we](/we.webp)
 
 Vediamo quindi senza ulteriori indugi quelli che sono i 5 migliori siti web per imparare il Machine Learning:
