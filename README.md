@@ -86,7 +86,7 @@ Questo dataset è stato utilizzato soprattutto per analisi di **engagement** e *
 ## 📊 Visualizzazioni principali
 
 ### 🟠 1. Distribuzione dei generi di videogiochi
-**(Grafico a torta)**  
+![descrizione immagine](Img/1.png)
 
 Rappresenta la percentuale dei giochi suddivisi per genere.
 
@@ -98,7 +98,7 @@ Rappresenta la percentuale dei giochi suddivisi per genere.
 ---
 
 ### 🟢 2. Vendite Wii in Europa nel 2008
-**(Mappa geografica europea)**  
+![descrizione immagine](Img/2.png)
 
 Visualizza una **stima delle vendite della console Nintendo Wii in Europa** nel 2008, anno di massimo picco del mercato console.
 
@@ -110,7 +110,7 @@ Visualizza una **stima delle vendite della console Nintendo Wii in Europa** nel 
 ---
 
 ### 🔵 3. Andamento delle vendite delle console nel tempo
-**(Grafico a linee multi-piattaforma)**  
+![descrizione immagine](Img/3.png)
 
 Mostra l’evoluzione delle vendite globali delle principali console dal 1980 al 2016.
 
