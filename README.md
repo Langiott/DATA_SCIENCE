@@ -38,8 +38,6 @@ Di seguito una selezione di cinque risorse online utili per apprendere e approfo
 
 Analisi esplorativa e visuale dei dati relativi al mercato dei videogiochi, con particolare attenzione a **generi**, **vendite per piattaforma** e **distribuzione geografica**, utilizzando strumenti di Business Intelligence come **Qlik Sense**, **Tableau** e **Power BI**.
 
----
-
 ## 📌 Obiettivo del progetto
 
 L’obiettivo del progetto è analizzare l’evoluzione storica del mercato videoludico dal 1980 al 2016, individuando:
@@ -48,8 +46,6 @@ L’obiettivo del progetto è analizzare l’evoluzione storica del mercato vide
 - la **distribuzione geografica delle vendite**, con un focus specifico sull’Europa.
 
 L’analisi mira a evidenziare trend di mercato, differenze regionali e relazioni tra piattaforme, generi e periodi storici.
-
----
 
 ## 📂 Dataset utilizzati
 
@@ -69,8 +65,6 @@ Questo dataset contiene informazioni sulle vendite di videogiochi pubblicati dal
 
 Il dataset è stato **trasformato tramite pivoting** per consentire analisi temporali e geografiche più efficaci, in particolare per l’uso in Tableau.
 
----
-
 ### 2️⃣ Backloggd Dataset
 **Fonte:** Backloggd / Kaggle  
 
@@ -80,8 +74,6 @@ Dataset più ampio e orientato al comportamento degli utenti, contenente:
 - milioni di sessioni di gioco e valutazioni
 
 Questo dataset è stato utilizzato soprattutto per analisi di **engagement** e **distribuzione dei generi**.
-
----
 
 ## 📊 Visualizzazioni principali
 
@@ -95,7 +87,6 @@ Rappresenta la percentuale dei giochi suddivisi per genere.
 - I generi con meno titoli (es. Visual Novel, Music, Quiz) rappresentano nicchie specifiche.
 - Il numero di giochi per genere non coincide necessariamente con il volume di vendite.
 
----
 
 ### 🟢 2. Vendite Wii in Europa nel 2008
 ![descrizione immagine](Img/2.png)
@@ -107,7 +98,6 @@ Visualizza una **stima delle vendite della console Nintendo Wii in Europa** nel 
 - L’Europa rappresenta un’area strategica per Nintendo nel periodo di massimo successo della Wii.
 - Le vendite sono state disaggregate per paese a partire dal valore complessivo europeo.
 
----
 
 ### 🔵 3. Andamento delle vendite delle console nel tempo
 ![descrizione immagine](Img/3.png)
